@@ -1,0 +1,32 @@
+<nav>
+    <ul class="menu">
+        <li style="margin: 0;">
+            <a 
+                href="/" 
+                style="background-color: {{#if (eq currentPath '/')}}#388E3C{{else}}transparent{{/if}};">
+                Home
+            </a>
+        </li>
+        <li style="margin: 0;">
+            <a 
+                href="/favorites" 
+                style="background-color: {{#if (eq currentPath '/favorites')}}#388E3C{{else}}transparent{{/if}};">
+                Preferiti
+            </a>
+        </li>
+        <li style="margin: 0;">
+            <a 
+                href="/create" 
+                style="background-color: {{#if (eq currentPath '/create')}}#388E3C{{else}}transparent{{/if}};">
+                Crea un Biscotto
+            </a>
+        </li>
+        <li style="margin: 0;">
+            <a 
+                href="/auth/logout" 
+                class="logout">
+                Logout
+            </a>
+        </li>
+    </ul>
+</nav>

@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+.menu {
+    list-style: none; 
+    padding: 0; 
+    display: flex; 
+    gap: 15px; 
+    background-color: #4CAF50; 
+    padding: 10px; 
+    margin: 0;
+}
+.menu a {
+    text-decoration: none; 
+    padding: 10px 15px; 
+    border-radius: 5px;
+    color: #fff;
+}
+.menu a:hover {
+    color: #ccc;
+}
+.logout:active {
+    color: #fd5c5c;
+}
+.btn-selfcreate {
+    width: 49%;
+}

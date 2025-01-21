@@ -1,0 +1,81 @@
+[
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd8660876"
+    },
+    "name": "Oreo",
+    "taste": "678e033c5acca37bd866086d"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd8660877"
+    },
+    "name": "Digestive",
+    "taste": "678e033c5acca37bd866086d"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd8660878"
+    },
+    "name": "Lotus Biscoff",
+    "taste": "678e03595acca37bd8660871"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd8660879"
+    },
+    "name": "Tuc",
+    "taste": "678e03495acca37bd866086f"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd866087a"
+    },
+    "name": "Frollino Mulino Bianco",
+    "taste": "678e033c5acca37bd866086d"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd866087b"
+    },
+    "name": "Ringo",
+    "taste": "678e03595acca37bd8660871"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd866087c"
+    },
+    "name": "Pan di Stelle",
+    "taste": "678e033c5acca37bd866086d"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd866087d"
+    },
+    "name": "Macaron",
+    "taste": "678e03495acca37bd866086f"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd866087e"
+    },
+    "name": "Amaretti",
+    "taste": "678e03595acca37bd8660871"
+  },
+  {
+    "_id": {
+      "$oid": "678e1a795acca37bd866087f"
+    },
+    "name": "Galletti",
+    "taste": "678e033c5acca37bd866086d"
+  },
+  {
+    "_id": {
+      "$oid": "678e4b83d9da9dabf48cf560"
+    },
+    "name": "Baiocchi",
+    "taste": "678e03495acca37bd866086f",
+    "author": "bnairy0",
+    "__v": 0
+  }
+]

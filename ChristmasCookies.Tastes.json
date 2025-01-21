@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "678e033c5acca37bd866086d"
+  },
+  "name": "Cioccolato"
+},
+{
+  "_id": {
+    "$oid": "678e03495acca37bd866086f"
+  },
+  "name": "Vaniglia"
+},
+{
+  "_id": {
+    "$oid": "678e03595acca37bd8660871"
+  },
+  "name": "Nocciola"
+}]

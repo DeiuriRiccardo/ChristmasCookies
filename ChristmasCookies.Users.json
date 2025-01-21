@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "678dff785acca37bd8660855"
+  },
+  "id": 1,
+  "username": "bnairy0",
+  "email": "tcorro0@theguardian.com",
+  "password": "$2a$04$QANpjo2fL2SzVB7OE9QaquqGE7dHcfMnqA9IXsizIZWnx9jBvELOi"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd8660856"
+  },
+  "id": 2,
+  "username": "tmcmichan1",
+  "email": "byakovliv1@prlog.org",
+  "password": "$2a$04$mq1vsrrjLaN9o4qeDpGO1e40XIwnbciZTUlPbgCwwYUhkXNUC94La"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd8660857"
+  },
+  "id": 3,
+  "username": "jrousel2",
+  "email": "ujays2@hp.com",
+  "password": "$2a$04$IX8LSx2hzl5AiN02thr/wuMA193Uj79AWqV30sLorRtl5.NTjuhxO"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd8660858"
+  },
+  "id": 4,
+  "username": "igrave3",
+  "email": "orunnett3@smh.com.au",
+  "password": "$2a$04$mKGmUGKrukXIVCYt4C5JX.YT2dZeCLhJaEdNWNf.5JSI0oRpkp87S"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd8660859"
+  },
+  "id": 5,
+  "username": "jwilmington4",
+  "email": "spetrenko4@tinyurl.com",
+  "password": "$2a$04$QnC.HOugSUzUnjUDmotpyuD5N7DOWCDdBfhJJtiMEYfDVLeQwwiOO"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd866085a"
+  },
+  "id": 6,
+  "username": "jgimson5",
+  "email": "tgirkin5@apple.com",
+  "password": "$2a$04$9fksRA1DtTtD/Y9KNQvZk.sw29JxZYQ/2AptoFz1FclDQKMWsud1a"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd866085b"
+  },
+  "id": 7,
+  "username": "lfewkes6",
+  "email": "fmacgregor6@wikimedia.org",
+  "password": "$2a$04$ITBlu1I8W7/QG8PyaMYXreS62nJRO1V08yrhOmzM1RU/mgp3T/hhy"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd866085c"
+  },
+  "id": 8,
+  "username": "adawks7",
+  "email": "cblofeld7@wix.com",
+  "password": "$2a$04$PjX0a/ps.Tf/JCbKVZF0M.ns2X5Lxr5IBaHMJeNmxuryB4ADPvCgS"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd866085d"
+  },
+  "id": 9,
+  "username": "ceastham8",
+  "email": "qpaling8@cyberchimps.com",
+  "password": "$2a$04$icbO6AXHxV/EjrZTyvqW8eEtT3WY0FBtiXGD3C4KFkP407QLCVm76"
+},
+{
+  "_id": {
+    "$oid": "678dff785acca37bd866085e"
+  },
+  "id": 10,
+  "username": "plegerwood9",
+  "email": "pceney9@howstuffworks.com",
+  "password": "$2a$04$9lPNSk7Ou1i4MmBz2OgdOuPhMGX4ehuz.0pHTrt3EjZeFzc9ojrcu"
+},
+{
+  "_id": {
+    "$oid": "678e26a35c33f6b2398d6f98"
+  },
+  "username": "rich",
+  "email": "r.deiuri@gmail.com",
+  "password": "$2b$10$AolyzK46AcUUbxG1S9cIXOGfL5hZyMndH5MAvcDxqotkyqBUbuNfi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e3f944d93626d582720fc"
+  },
+  "username": "ricky1",
+  "email": "r.f@gmail.com",
+  "password": "$2b$10$AolyzK46AcUUbxG1S9cIXO9Y/yBbvaQLT0uOC94Zxc6xfVWnd76YS",
+  "__v": 0
+}]
